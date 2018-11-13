@@ -4,7 +4,7 @@ Mmark is a powerful markdown processor written in Go geared towards writing IETF
 also suited for writing books and other technical documentation.
 
 Further documentation can be [found at my site](https://miek.nl/tags/mmark/). A complete syntax
-document [can be found here](https://github.com/gostores/mmark/wiki/Syntax).
+document [can be found here](https://github.com/govenue/mmark/wiki/Syntax).
 
 With Mmark you can write RFCs using markdown. Mmark (written in Go) provides an advanced markdown
 dialect that processes a (single) file to produce internet-drafts in XML format. Internet-drafts
@@ -114,7 +114,7 @@ in a directory along with that Makefile and just type "make" to produce the .txt
 
 ## Syntax
 
-See the [syntax](https://github.com/gostores/mmark/wiki/Syntax) document on all syntax elements that
+See the [syntax](https://github.com/govenue/mmark/wiki/Syntax) document on all syntax elements that
 are supported by Mmark.
 
 [1]: https://daringfireball.net/projects/markdown/ "Markdown"

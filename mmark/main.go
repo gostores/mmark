@@ -18,7 +18,7 @@ import (
 	"log"
 	"os"
 
-	"github.com/gostores/mmark"
+	"github.com/govenue/mmark"
 )
 
 var githash string
@@ -45,7 +45,7 @@ func main() {
 
 	flag.Usage = func() {
 		fmt.Fprintf(os.Stderr, "Mmark Markdown Processor"+
-			"\nAvailable at http://github.com/gostores/mmark\n\n"+
+			"\nAvailable at http://github.com/govenue/mmark\n\n"+
 			"Copyright © 2014 Miek Gieben <miek@miek.nl>\n"+
 			"Copyright © 2011 Russ Ross <russ@russross.com>\n"+
 			"Distributed under the Simplified BSD License\n\n"+
